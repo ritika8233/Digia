@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sonnet Swire",
+            "title": "One arrested with weapon at Joint Base Andrews after VP Harris' arrival, another at large - CNN",
+            "description": "Security personnel at Joint Base Andrews in Maryland on Sunday night arrested one person with a weapon, while another remains at large, according to a news release, shortly after Vice President Kamala Harris had arrived on the base.",
+            "url": "https://www.cnn.com/2022/03/07/politics/joint-base-andrews-security/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220306231234-joint-base-andrews-lockdown-03062022.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-03-07T05:18:00Z",
+            "content": "Security personnel at Joint Base Andrews in Maryland on Sunday night arrested one person with a weapon, while another remains at large, according to a news release, shortly after Vice President Kamal… [+1538 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Stephen Wright, Clarence Leong, Ryan Dezember",
+            "title": "The Russia-Ukraine War: Latest News and Live Updates - The Wall Street Journal",
+            "description": "Full coverage of Russia's invasion of Ukraine, from The Wall Street Journal",
+            "url": "https://www.wsj.com/livecoverage/russia-ukraine-latest-news-2022-03-07",
+            "urlToImage": "https://images.wsj.net/im-496184/social",
+            "publishedAt": "2022-03-07T05:01:00Z",
+            "content": "U.S. stock futures and global equity indexes dropped after Russian forces intensified strikes across Ukraine and as the threat of a potential ban on imports of Russian oil helped spur a surge in ener… [+1620 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Edward Helmore",
+            "title": "Truck convoy loops around Washington DC to protest Covid restrictions - The Guardian",
+            "description": "The ‘people’s convoy’ of around 1,000 vehicles threaten a week of traffic disruptions around US capital",
+            "url": "https://amp.theguardian.com/us-news/2022/mar/06/washington-dc-truck-convoy-protest-covid-restrictions",
+            "urlToImage": null,
+            "publishedAt": "2022-03-07T03:59:00Z",
+            "content": "Washington DCThe peoples convoy of around 1,000 vehicles threaten a week of traffic disruptions around US capital\r\nA long line of huge semi-articulated trucks, recreational vehicles and cars was circ… [+5307 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Charean Williams",
+            "title": "Report: DeMarcus Lawrence’s future in doubt after he declines pay cut - NBC Sports",
+            "description": "The Cowboys are “likely” to release receiver Amari Cooper. They also could move on from defensive end DeMarcus Lawrence. Calvin Watkins of the Dallas Morning News reports the Cowboys asked Lawrence to take a pay cut, and he declined. That could have Lawrence …",
+            "url": "https://profootballtalk.nbcsports.com/2022/03/06/report-demarcus-lawrences-future-in-doubt-after-he-declines-pay-cut/",
+            "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2022/03/GettyImages-1363572471-e1646625288912.jpg",
+            "publishedAt": "2022-03-07T03:55:00Z",
+            "content": "The Cowboys are likely to release receiver Amari Cooper. They also could move on from defensive end DeMarcus Lawrence. \r\nCalvin Watkins of the Dallas Morning News reports the Cowboys asked Lawrence t… [+1175 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KMBC Kansas City"
+            },
+            "author": "Emily Holwick",
+            "title": "Three Blue Springs family members among victims of Iowa tornado - KMBC Kansas City",
+            "description": "A man and two young children identified by authorities are from the Kansas City area.",
+            "url": "https://www.kmbc.com/article/three-blue-springs-family-members-among-victims-of-iowa-tornado/39344222",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/bolger-family-png-1646625052.png?crop=0.992xw:1.00xh;0.00651xw,0&resize=1200:*",
+            "publishedAt": "2022-03-07T03:52:00Z",
+            "content": "KMBC 9 has learned that three of the people killed in the deadly tornado in central Iowa Saturday are from Blue Springs, Missouri, including two young children. \r\n7 people died after a tornado hit th… [+3605 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KCRA Sacramento"
+            },
+            "author": "Leticia Ordaz",
+            "title": "'Top of the kill list': Rep. John Garamendi speaks with Ukraine President Volodymyr Zelenskyy - KCRA Sacramento",
+            "description": "Garamendi said Ukraine's President emphasized that Russian forces are moving away from targeting the Ukrainian military and are now attacking communities.",
+            "url": "https://www.kcra.com/article/rep-john-garamendi-speaks-ukraine-president-volodymyr-zelenskyy/39337159",
+            "urlToImage": "https://kubrick.htvapps.com/vidthumb/1e858d53-3dfb-4922-a74d-93203884a295/1e858d53-3dfb-4922-a74d-93203884a295_image.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+            "publishedAt": "2022-03-07T03:50:00Z",
+            "content": "On Saturday, Rep. John Garamendi, a senior member of the armed services committee spoke with Ukraine President Volodymyr Zelenskyy to discuss Russia's invasion.\r\nHe joined a one-hour briefing with 50… [+2661 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Laura He",
+            "title": "Stocks sink while oil soars after US and allies consider banning Russian oil - CNN",
+            "description": "Stocks are tumbling Monday as oil prices are soaring to the highest level in 13 years, raising fears about a further spike in inflation that could damage the global economy.",
+            "url": "https://www.cnn.com/2022/03/06/investing/global-markets-oil-highest-2008/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220306210754-japan-stock-market-03072022.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-03-07T02:49:00Z",
+            "content": "Stocks are tumbling Monday as oil prices are soaring to the highest level in 13 years, raising fears about a further spike in inflation that could damage the global economy. \r\nIn Asia, Hong Kongs Han… [+1409 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Yaroslav Trofimov, Alan Cullison",
+            "title": "Ukraine Faces Fresh Wave of Attacks Focused on Population Centers - The Wall Street Journal",
+            "description": "Civilian casualties mount in Ukraine as Russian shelling, airstrikes intensify ahead of new talks",
+            "url": "https://www.wsj.com/articles/ukraine-resumes-evacuation-attempts-as-russia-presses-offensive-11646564330",
+            "urlToImage": "https://images.wsj.net/im-499156/social",
+            "publishedAt": "2022-03-07T02:45:00Z",
+            "content": "Russian forces intensified strikes across Ukraine, pushing toward the capital, Kyiv, and the countrys second-largest city, Kharkiv, while killing dozens of civilians and disrupting evacuation efforts… [+256 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Courier Journal"
+            },
+            "author": "Jon Hale, The Courier-Journal",
+            "title": "John Calipari's 'lucky' Rolex lost in UK women's basketball celebration has been found - Courier Journal",
+            "description": "Kentucky basketball coach John Calipari lost his lucky watch while celebrating the Wildcat women's team's first SEC Tournament title in 40 years.",
+            "url": "https://www.courier-journal.com/story/sports/college/kentucky/2022/03/06/john-calipari-rolex-kentucky-coach-loses-lucky-watch-celebration/6891104001/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/02/26/USAT/269cc1e0-ca1d-4f95-87f4-b8bb5a25b5df-USP_NCAA_Basketball__Alabama_at_Kentucky.jpg?auto=webp&crop=5054,2843,x0,y0&format=pjpg&width=1200",
+            "publishedAt": "2022-03-07T02:15:00Z",
+            "content": "LEXINGTON - John Calipari's missing Rolex has been found. Apparently, Kentucky women's basketball coach Kyra Elzy gets credit for her second win of the day in the process.\r\nShortly after watching the… [+2067 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Charles Robinson",
+            "title": "As NFL scouting combine winds down, all eyes are on Aaron Rodgers and an important deadline - Yahoo Sports",
+            "description": "This past week has illuminated two points: Only Rodgers knows what he's doing, and Tuesday represents a significant moment.",
+            "url": "https://sports.yahoo.com/as-nfl-combine-winds-down-all-eyes-are-on-aaron-rodgers-and-an-important-deadline-014128802.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/te11gNt8eiagMTZUbv_AAQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NDA-/https://s.yimg.com/os/creatr-uploaded-images/2021-10/d8743840-2851-11ec-ad5f-ef514c3551af",
+            "publishedAt": "2022-03-07T01:41:00Z",
+            "content": "INDIANAPOLIS When it comes to whats next for Aaron Rodgers, the last day at the NFL scouting combine was illuminating on two points.\r\nFirst, it appears only Rodgers knows what hes doing.\r\nSecond, Tue… [+4831 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Claudia Dominguez and Paradise Afshar, CNN",
+            "title": "Florida expands state of emergency to 3 counties affected by wildfires - CNN",
+            "description": "Evacuation orders are still in place for about 600 homes in the Florida Panhandle as crews battle at least four dangerous wildfires, authorities said.",
+            "url": "https://www.cnn.com/2022/03/05/us/florida-bay-county-wildfire-saturday-desantis/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220305125202-desantis-presser-0305-screengrab-super-tease.jpg",
+            "publishedAt": "2022-03-07T01:33:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nfl-news",
+                "name": "NFL News"
+            },
+            "author": null,
+            "title": "2022 NFL Scouting Combine winners and losers, Day 4: Sauce Gardner, Zyon McCollum show out - NFL.com",
+            "description": "Cornerbacks and safeties took the field on Sunday at the 2022 NFL Scouting Combine. Who starred on the big stage? Who disappointed? Chad Reuter reveals his winners and losers.",
+            "url": "https://www.nfl.com/news/2022-nfl-scouting-combine-winners-and-losers-day-4-sauce-gardner-zyon-mccollum-s",
+            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/x5ra5bwelu63cvw5hnfk",
+            "publishedAt": "2022-03-07T01:05:00Z",
+            "content": "INDIANAPOLIS -- Readers of my 2022 NFL Scouting Combine recaps from Thursday, Friday and Saturday night might wonder why I didn't just pick the players with the fastest 40-yard dashes and farthest ju… [+4890 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Liz Moyer",
+            "title": "'The Batman' Soars in Biggest Box Office Debut of 2022, So Far - Barron's",
+            "description": "The Warner Bros. film hauled in $128.5 million in North American ticket sales during its first weekend, the second-highest debut since the pandemic started.",
+            "url": "https://www.barrons.com/articles/the-batman-box-office-debut-51646602011",
+            "urlToImage": "https://images.barrons.com/im-499248/social",
+            "publishedAt": "2022-03-07T00:02:00Z",
+            "content": "Movie theater operators got another boost this weekend with the release of The Batman, which has notched $128.5 million in North American ticket sales since Friday, according to Box Office Mojo, in w… [+1626 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Jon Brown",
+            "title": "Pope Francis: Ukraine humanitarian crisis 'growing dramatically' amid 'river of blood and tears' - Fox News",
+            "description": "Pope Francis condemned the Russia-Ukraine conflict in his strongest language yet during his weekly address in St. Peter's Square at the Vatican on Sunday.",
+            "url": "https://www.foxnews.com/world/pope-francis-ukraine-humanitarian-crisis",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Pope-Francis-Easter-Mass-AP.jpg",
+            "publishedAt": "2022-03-06T23:13:51Z",
+            "content": "Pope Francis\r\n condemned the Russia-Ukraine conflict in his strongest language yet during his weekly address in St. Peter's Square at the Vatican on Sunday.\r\n\"Rivers of blood and tears are flowing in… [+2347 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Brittany Shammas, Reis Thebault",
+            "title": "More than 4500 antiwar protesters arrested in one day in Russia, group says - The Washington Post",
+            "description": "Authorities on Sunday arrested at least 4,468 people across 56 cities in Russia, according to the independent human rights organization OVD-Info.",
+            "url": "https://www.washingtonpost.com/world/2022/03/06/protest-arrests-russia/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/thumbnails/6224f8314cedfd0001109ff5/2022-03-06T174801Z_1_OV255106032022RP1_RTRMADC_0_UKRAINE-CRISIS-RUSSIA-PROTEST-ROUGH-CUT.jpg&w=1440",
+            "publishedAt": "2022-03-06T23:05:11Z",
+            "content": "anti-war protests in Moscow today; people chanting \"No To War!\" newly passed legislation (signed into law on Saturday) makes it crime to call Russia's invasion of Ukraine a \"war\"-- or an \"invasion\" f… [+3493 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Bill Keveney, JJ Hensley, Katie Wadington, Ella Lee, Courtney Subramanian, Matthew Brown, John Bacon and Jorge L. Ortiz, USA TODAY",
+            "title": "NATO nations have 'green light' to send jets to Ukraine; cease-fire in Mariupol collapses: Live updates - USA TODAY",
+            "description": "NATO countries supporting Ukraine against the Russian invasion have a “green light” to send fighter jets as part of their military aid. Latest news.",
+            "url": "https://www.usatoday.com/story/news/politics/2022/03/06/russia-ukraine-invasion-updates/9401259002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/03/06/USAT/6230b92c-1625-4253-a812-1ea7307c06cc-AP_Russia_Ukraine_War.jpg?auto=webp&crop=4898,2755,x0,y261&format=pjpg&width=1200",
+            "publishedAt": "2022-03-06T23:03:45Z",
+            "content": "NATO countries supporting Ukraine against the Russian invasion have a “green light” to send fighter jets as part of their military aid, U.S. Secretary of State Antony Blinken said Sunday.\r\nThe push f… [+12958 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "David Meyer",
+            "title": "Zelensky's wife begs media to tell the 'terrible truth' that Russians are killing kids - New York Post ",
+            "description": "“Show these photos to Russian women — your husbands, brothers, compatriots are killing Ukrainian children! Let them know that they are personally responsible for the death of every Ukra…",
+            "url": "https://nypost.com/2022/03/06/ukraine-first-lady-olena-zelenska-begs-media-to-tell-terrible-truth-that-russians-are-killing-kids/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/03/olena-zelenska-instagram-comp.jpg?quality=90&strip=all&w=1024",
+            "publishedAt": "2022-03-06T22:17:00Z",
+            "content": "The wife of Ukraine’s president begged international media in an emotional plea Sunday to share the “terrible truth” of how Russian forces are brutally murdering children.\r\n“I appeal to all the unbia… [+2316 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "U.S., European allies discuss banning imports of Russian oil - Reuters",
+            "description": "The United States and European allies are exploring banning imports of Russian oil, U.S. Secretary of State Antony Blinken said on Sunday, and the White House coordinated with key Congressional committees moving forward with their own ban.",
+            "url": "https://www.reuters.com/business/energy/us-europeans-discussing-banning-russian-oil-imports-blinken-says-2022-03-06/",
+            "urlToImage": "https://www.reuters.com/resizer/bkhDnV1ayMn3Ro6C_z5j2pNfUKI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XSEW7V2VTBKXHM27VGCGCJL2IE.jpg",
+            "publishedAt": "2022-03-06T22:11:00Z",
+            "content": "WASHINGTON, March 6 (Reuters) - The United States and European allies are exploring banning imports of Russian oil, U.S. Secretary of State Antony Blinken said on Sunday, and the White House coordina… [+3104 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Ashley Joy Parker",
+            "title": "Kanye \"Ye\" West Defends His \"Art\" Following Backlash Over Pete Davidson Music Video - E! NEWS",
+            "description": "After receiving criticism for his latest music video, which depicts violence against Pete Davidson, Kanye \"Ye\" West issued a statement about his “art.”",
+            "url": "https://www.eonline.com/news/1322127/kanye-ye-west-defends-his-art-following-backlash-over-pete-davidson-music-video",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2020816/rs_1200x1200-200916113629-1200-kanye-west.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2022-03-06T21:56:00Z",
+            "content": "Kanye \"Ye\" West is claiming artistic therapy.\r\nFollowing widespread criticism over his new music video for his track, which depicts violence against his ex Kim Kardashian's boyfriend Pete Davidson, t… [+867 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Halo Infinite’s campaign co-op won’t arrive with season two in May - The Verge",
+            "description": "Season two of Halo Infinite won’t launch with campaign co-op on May 3rd. It will instead arrive sometime “later” during the season.",
+            "url": "https://www.theverge.com/2022/3/6/22964321/halo-infinite-campaign-co-op-season-two-may",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/xlYxF0uK__Iinfz0L0Jdh_umOTs=/0x75:3840x2085/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23066591/HaloInfinite_Campaign04_3840x2160_WM.png",
+            "publishedAt": "2022-03-06T21:26:27Z",
+            "content": "Its set to launch later during season two\r\nA screenshot of Halo Infinites campaign.\r\nImage: 343 Industries\r\nHalo Infinites second season wont ship with online campaign co-op when it launches on May 3… [+1794 chars]"
+        }
+    ]
+}

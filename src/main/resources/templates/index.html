@@ -1,0 +1,115 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>The Web News</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" type="text/css" th:href="@{/style.css}" />
+<!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="ie.css" /><![endif]-->
+</head>
+<body>
+<!-- BEGIN wrapper -->
+<div id="wrapper">
+  <!-- BEGIN header -->
+  <div id="header">
+    <ul>
+      <li class="f"><a href="/home" action="">Home</a></li>
+      <li><a href="/about">About Us</a></li>
+      <li><a href="/contact">Contact Page</a></li>
+    </ul>
+    
+    <div class="break"></div>
+    <div class="logo">
+      <h1><a href="#">The Web News</a></h1>
+      <p>Free CSS Template</p>
+    </div>
+    <div class="ad468x60"> <a href="#"><img src="images/ad468x60.gif" alt="" /></a> </div>
+    <div class="break"></div>
+    <ol>
+      <li><a href="/business">Business News</a></li>
+      <li><a href="/entertainment">Entertainment</a></li>
+      <li><a href="/general">General</a></li>
+      <li><a href="/health">Health</a></li>
+      <li><a href="/science">Science</a></li>
+      <li><a href="/sports">Sports</a></li>
+      <li><a href="/technology">Technology</a></li>
+    </ol>
+    <div class="break"></div>
+  </div>
+  <!-- END header -->
+  <!-- BEGIN content -->
+   
+   
+   
+  <div id="content">
+   
+  <!-- <tr th:each="news: ${news}">
+  
+   		<td th:text="${news.status}" />
+   		<td><p th:each="article : ${news.articles}">
+   -->		
+   		
+   		<tr th:each="articles: ${articles}">
+    <!-- begin post -->
+    <div class="post">
+    
+           
+	      
+	      <div class="thumb"><a th:href="${articles.urlToImage}"><img th:src="${articles.urlToImage}" /> </a>  </div>
+	      <h2><a href="#"><td th:text="${articles.title}" /></a></h2>
+	      <p class="date"><td th:text="${articles.publishedAt}" /></p>
+	      <p><td th:text="${articles.description}" /></p>
+	      <a class="continue" th:href="${articles.url}">Continue Reading</a>
+	      
+      </div>
+    <!-- end post -->
+    	
+    	
+    		
+   </tr>
+    
+    
+    <!-- begin post navigation -->
+    
+    <!-- end post navigation -->
+  </div>
+  <!-- END content -->
+  <!-- BEGIN sidebar -->
+  <div id="sidebar">
+    <!-- begin ads -->
+    <div class="ads"> <a href="#"><img src="images/ad125x125.jpg" alt="" /></a> <a href="#"><img src="images/ad125x125.jpg" alt="" /></a> <a href="#"><img src="images/ad125x125.jpg" alt="" /></a> <a href="#"><img src="images/ad125x125.jpg" alt="" /></a> </div>
+    <!-- end ads -->
+    <!-- begin search -->
+    <form class="search" method="POST" action="/search">
+      <input type="text" name="searchvalue" id="searchvalue" style="padding: 5px;" />
+      <button type="submit">Search</button>
+    </form>
+    <!-- end search -->
+    <div class="wrapper">
+      <!-- begin popular posts -->
+      
+      <ul style="padding: 20px;">
+        <li><a href="/business" style="font-size: 18px; padding: 10px;">Business News</a></li>
+        <li><a href="/entertainment" style="font-size: 18px; padding: 10px;">Entertainment</a></li>
+        <li><a href="/general" style="font-size: 18px; padding: 10px;">General</a></li>
+        <li><a href="/health" style="font-size: 18px; padding: 10px;">Health</a></li>
+        <li><a href="/science" style="font-size: 18px; padding: 10px;">Science</a></li>
+        <li><a href="/sports" style="font-size: 18px; padding: 10px;">Sports</a></li>
+        <li><a href="/technology" style="font-size: 18px; padding: 10px;">Technology</a></li>
+      </ul>
+      <!-- end popular posts -->
+      
+      </div>
+      <!-- END right -->
+    </div>
+  </div>
+  <!-- END sidebar -->
+  <!-- BEGIN footer -->
+  <div id="footer">
+    <p>Copyright &copy; 2009 - <a href="#">Website Name</a> &middot; All Rights Reserved</p>
+    <p>Template by: <a href="http://www.wpthemedesigner.com/">WordPress Designer</a> | Get More <a href="#">Free CSS Templates</a></p>
+  </div>
+  <!-- END footer -->
+</div>
+<!-- END wrapper -->
+</body>
+</html>
